@@ -1,1 +1,1 @@
-# image_recogination
+# image_recognition
